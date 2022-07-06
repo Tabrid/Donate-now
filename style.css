@@ -138,7 +138,7 @@ margin: 30px;
   border: none;
   outline: none;
   background-color: white;
-  margin-right: 0px;
+  margin-right: -10px;
 }
 .form-box button{
   color: white;
